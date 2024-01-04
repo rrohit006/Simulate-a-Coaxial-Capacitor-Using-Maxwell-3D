@@ -1,1 +1,1 @@
-# Simulate-a-Coaxial-Capacitor-Using-Maxwell-3D
+# Simulate a Coaxial Capacitor Using Maxwell 3D
